@@ -4,6 +4,15 @@
 
 This project is a complete Human Resource Management System built using Microsoft SQL Server. It demonstrates database design, normalization, T-SQL programming, stored procedures, views, functions, triggers, indexing, and query optimization.
 
+---
+
+## Entity Relationship Diagram
+
+The following ER diagram illustrates the database schema and relationships between the major entities in the HR Management System.
+
+![ER Diagram](ER_Diagram.png)
+
+---
 
 ## Technologies Used
 
