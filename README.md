@@ -1,2 +1,53 @@
-# HR-Management-System-SQL
-A complete SQL Server HR Management System demonstrating database design, T-SQL, stored procedures, views, functions, triggers, indexing, query optimization, and reporting.
+# HR Management System - SQL Server
+
+## Project Overview
+
+...
+
+## Technologies Used
+
+...
+
+## Features
+
+...
+
+## Database Objects
+
+### Tables
+
+...
+
+### Views
+
+...
+
+### Stored Procedures
+
+...
+
+### Functions
+
+...
+
+### Triggers
+
+...
+
+### Indexes
+
+...
+
+## Repository Structure
+
+...
+
+## Skills Demonstrated
+
+...
+
+## Future Enhancements
+
+...
+
+## Author
